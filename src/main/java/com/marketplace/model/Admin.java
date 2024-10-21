@@ -6,5 +6,5 @@ public class Admin extends Persona {
         super(id, nombres, apellidos, cedula, direccion, contraseña);
     }
 
-    //administrar vendedores y  productos
+    //Funcionalidades del admin
 }
